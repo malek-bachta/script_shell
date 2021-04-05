@@ -1,0 +1,5 @@
+file.tar.bz2
+help.sh
+home
+ma.txt
+shell.sh
